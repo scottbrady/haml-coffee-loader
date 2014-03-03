@@ -1,0 +1,1 @@
+Automatically compile and cache haml-coffee (.hamlc) files.
