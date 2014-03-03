@@ -1,0 +1,38 @@
+{
+  "name": "haml-coffee-loader",
+  "version": "0.0.1",
+  "description": "Require and automatically compile haml-coffee (.hamlc) files.",
+  "author": {
+    "name": "Scott Brady",
+    "email": "scott@sbrady.com"
+  },
+  "keywords": [
+    "haml",
+    "coffee",
+    "haml-coffee",
+    "load",
+    "compile",
+    "extension"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottbrady/haml-coffee-loader"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "*"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/scottbrady/haml-coffee-loader/blob/master/LICENSE"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/scottbrady/haml-coffee-loader/issues"
+  },
+  "homepage": "https://github.com/scottbrady/haml-coffee-loader",
+  "dependencies": {
+    "haml-coffee" : "1.13.7",
+    "coffee-script": "1.6.3"
+  }
+}
