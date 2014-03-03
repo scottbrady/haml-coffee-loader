@@ -1,6 +1,6 @@
 {
   "name": "haml-coffee-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Require and automatically compile haml-coffee (.hamlc) files.",
   "author": {
     "name": "Scott Brady",
